@@ -1,24 +1,8 @@
-# vue_player
 
-## Project setup
-```
-npm install
-```
+**vue+vuex+axios+rxjs+vue-router**
+接口用的是[Binaryify大佬的 - NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<br/>
+    <img width="280" src="screenshots/1.png"/>
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
